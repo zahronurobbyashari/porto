@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a0118d2.css",
-    "main.js": "/static/js/main.b53ef41d.js",
+    "main.css": "/static/css/main.cb1163ac.css",
+    "main.js": "/static/js/main.0d671557.js",
     "static/media/CV-QA-Zahro-Nurobby-Ashari.pdf": "/static/media/CV-QA-Zahro-Nurobby-Ashari.a1ebb1e93d9461090a4f.pdf",
-    "static/media/profile.jpg": "/static/media/profile.e901e72183fd6bd5c1af.jpg",
+    "static/media/profile.jpg": "/static/media/profile.35fbeca60a49465558d2.jpg",
     "index.html": "/index.html",
-    "main.9a0118d2.css.map": "/static/css/main.9a0118d2.css.map",
-    "main.b53ef41d.js.map": "/static/js/main.b53ef41d.js.map"
+    "main.cb1163ac.css.map": "/static/css/main.cb1163ac.css.map",
+    "main.0d671557.js.map": "/static/js/main.0d671557.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a0118d2.css",
-    "static/js/main.b53ef41d.js"
+    "static/css/main.cb1163ac.css",
+    "static/js/main.0d671557.js"
   ]
 }
