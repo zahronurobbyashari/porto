@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/porto/static/css/main.bfe2be15.css",
-    "main.js": "/porto/static/js/main.b8202f7d.js",
-    "static/media/CV-QA-Zahro-Nurobby-Ashari.pdf": "/porto/static/media/CV-QA-Zahro-Nurobby-Ashari.a1ebb1e93d9461090a4f.pdf",
-    "static/media/profile.jpg": "/porto/static/media/profile.e901e72183fd6bd5c1af.jpg",
-    "index.html": "/porto/index.html",
-    "main.bfe2be15.css.map": "/porto/static/css/main.bfe2be15.css.map",
-    "main.b8202f7d.js.map": "/porto/static/js/main.b8202f7d.js.map"
+    "main.css": "/static/css/main.9a0118d2.css",
+    "main.js": "/static/js/main.b53ef41d.js",
+    "static/media/CV-QA-Zahro-Nurobby-Ashari.pdf": "/static/media/CV-QA-Zahro-Nurobby-Ashari.a1ebb1e93d9461090a4f.pdf",
+    "static/media/profile.jpg": "/static/media/profile.e901e72183fd6bd5c1af.jpg",
+    "index.html": "/index.html",
+    "main.9a0118d2.css.map": "/static/css/main.9a0118d2.css.map",
+    "main.b53ef41d.js.map": "/static/js/main.b53ef41d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfe2be15.css",
-    "static/js/main.b8202f7d.js"
+    "static/css/main.9a0118d2.css",
+    "static/js/main.b53ef41d.js"
   ]
 }
